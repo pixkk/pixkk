@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
+
 **pixkk/pixkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![pixkk's Stats](https://github-readme-stats.vercel.app/api?username=pixkk&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
+![pixkk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pixkk&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)  
+
+<!--[![GitHub Streak](https://github-readme-streak-stats-swart-mu.vercel.app?user=pixkk&theme=vue-dark)](https://git.io/streak-stats)-->
+
